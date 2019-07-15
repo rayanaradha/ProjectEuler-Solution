@@ -1,3 +1,8 @@
+/*This is simple java solution  for  " Multiples of 3 and 5" problem.
+You can see problem description in below link
+
+https://www.hackerrank.com/contests/projecteuler/challenges/euler011/problem*/
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
