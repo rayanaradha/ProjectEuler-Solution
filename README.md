@@ -9,5 +9,5 @@ in a fun and recreational context.
 <p> In this repository I share some of my solutions for ProjectEuler question
 
 <h2> Links </h2>
- Projecteuler.net https://projecteuler.net/ 
- HackerRank ProjectEuler Solution https://www.hackerrank.com/contests/projecteuler/challenges
+ <p> Projecteuler.net https://projecteuler.net/ 
+ <p> HackerRank ProjectEuler Solution https://www.hackerrank.com/contests/projecteuler/challenges
